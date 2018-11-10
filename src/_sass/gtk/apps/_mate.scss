@@ -9,8 +9,7 @@
 // Mate OSD Window
 //
 MsdOsdWindow.background.osd {
-  border-radius: 2px;
-  border: 1px solid darken($osd_bg_color, 8%);
+  border: 1px solid #e60053;
 
   .progressbar {
     background-color: $selected_bg_color;
